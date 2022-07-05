@@ -7,7 +7,7 @@
 
 - ⚡️ Linkedin: https://www.linkedin.com/in/rufat-karimli
 
-- ⚡️ Mail: kerimli2002r@gmail.com 
+- :email: Mail: kerimli2002r@gmail.com 
   
 
 <br/>  
