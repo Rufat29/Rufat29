@@ -34,13 +34,6 @@
 <br/>  
 
                                                                                                                                          
-## Connect with me  
-  <a href="https://github.com/Rufat29" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href=" https://www.linkedin.com/in/rufat-karimli-08b3081aa" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
   
 <br/>  
 
