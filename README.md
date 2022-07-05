@@ -5,8 +5,9 @@
 
 - 🌱 I’m currently working as Frontend Developer  
 
+- ⚡️ Linkedin: https://www.linkedin.com/in/rufat-karimli
 
-- ⚡️ Fun fact: no fun  
+- ⚡️ Mail: kerimli2002r@gmail.com 
   
 
 <br/>  
