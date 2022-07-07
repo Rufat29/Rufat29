@@ -41,9 +41,9 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjufat29" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufat29" align="right" /></div>  
 
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Ruufat29&show_icons=true&count_private=true)  
+![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Rufat29&show_icons=true&count_private=true)  
 
 <br/>  
 
