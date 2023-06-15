@@ -26,6 +26,7 @@
      <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="80" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="80" />  
     <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React.js" height="80" />    
+        <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" alt="React.js" height="80" />    Ï
   </div>
   </td>
   
